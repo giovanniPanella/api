@@ -80,8 +80,8 @@ router.get("/profile", eAdmin, async (req, res) => {
 // A aplicação externa deve indicar que está enviado os dados em formato de objeto Content-Type: application/json
 // Dados em formato de objeto
 /*{
-    "name": "Cesar",
-    "email": "cesar@celke.com.br"
+    "name": "Panella1",
+    "email": "panella1@gmail.com"
 }
 */
 router.put("/profile", eAdmin, async (req, res) => {

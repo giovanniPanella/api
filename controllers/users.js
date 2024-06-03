@@ -167,8 +167,8 @@ router.get("/users/:id", eAdmin, async (req, res) => {
 // Dados em formato de objeto
 /*
 {
-    "name": "Cesar",
-    "email": "cesar@celke.com.br",
+    "name": "Panella",
+    "email": "panella@gmail.com",
     "situationId": 1
 }
 */
@@ -261,8 +261,8 @@ router.post("/users", eAdmin, async (req, res) => {
 // Dados em formato de objeto
 /*{
     "id": 7,
-    "name": "Cesar",
-    "email": "cesar@celke.com.br",
+    "name": "panella7",
+    "email": "panella7@gmail.com",
     "situationId": 1
 }
 */
