@@ -5,7 +5,7 @@
 
 ## Como rodar o projeto baixado
 
-Criar a base de dados "celke" no MySQL<br>
+Criar a base de dados "api" no MySQL<br>
 Alterar as credencias do banco de dados no arquivo ".env"<br>
 Para a funcionalidade recuperar senha funcionar, necessário alterar as credenciais do servidor de envio de e-mail no arquivo .env.<br>
 
